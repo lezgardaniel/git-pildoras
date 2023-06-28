@@ -1,5 +1,9 @@
 body{
     background-color: aqua;
     font-weight: bold;
-    color: azure;
+    color: white;
+}
+
+p{
+    font-zise: 15px;
 }
